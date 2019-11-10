@@ -1,4 +1,5 @@
 def starts_with_a_vowel?(word)
+  array=[]
 array.scan(/\w + [aeiou]/)
 end
 
